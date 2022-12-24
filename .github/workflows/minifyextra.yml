@@ -1,4 +1,4 @@
-name: Minify HTML + Extra
+name: Minify HTML + Extra 2
 on:
   push:
     branches: [ "main" ]
